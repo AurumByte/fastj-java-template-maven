@@ -10,4 +10,17 @@ A basic template for getting started with FastJ using Maven
  - You can clone this repository and set it up in an IDE
  - Or download the zip file from the releases section
 
+#### Build
+```
+mvn package
+```
+
+#### Run
+```
+mvn exec:java
+```
+
+## Learn FastJ
+
+[FastJ Docs](https://javadoc.io/doc/io.github.lucasstarsz.fastj/fastj-library/latest/fastj.library/module-summary.html)
  
