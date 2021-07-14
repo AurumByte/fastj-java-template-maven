@@ -39,8 +39,8 @@ Download the archive (.zip file, or tar.gz file) from https://github.com/AurumBy
 
 ## Learning FastJ
 Check out the following links to learn how to use FastJ:
-- [Example Programs][https://github.com/fastjengine/FastJ/tree/main/src/example]
-- [FastJ Documentation][https://javadoc.io/doc/io.github.lucasstarsz.fastj/fastj-library/latest/fastj.library/module-summary.html]
+- [Example Programs](https://github.com/fastjengine/FastJ/tree/main/src/example)
+- [FastJ Documentation](https://javadoc.io/doc/io.github.lucasstarsz.fastj/fastj-library/latest/fastj.library/module-summary.html)
 
 
 ## Configuring the Project Variables
